@@ -6,7 +6,10 @@ Welcome to the official community and documentation tracker for **GateDNS**.
 GateDNS is an advanced, high-performance privacy solution designed to secure your digital life through Encrypted DNS, native Port 53 + DDNS router integration, and a rootless local VPN architecture.
 
 🌐 **Website & Cloud Dashboard:** [gatedns.app](https://gatedns.app)  
-📥 **Download on Google Play:** [GateDNS for Android](https://play.google.com/store/apps/details?id=com.gatedns.app)  
+
+<a href="https://play.google.com/store/apps/details?id=com.gatedns.app">
+  <img alt="Get it on Google Play" src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" height="60">
+</a>
 
 ---
 
