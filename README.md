@@ -51,6 +51,12 @@ Unlike traditional VPNs that route all network traffic through external third-pa
 Visit [gatedns.app](https://gatedns.app) to access your cloud control panel. From here, you can link your IP, set up schedules, toggle parental controls, and view live analytics graphs for your entire network from any device (PC, Mac, iOS, Android).
 
 ### 2. For Android Devices (Mobile)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/494a19cb-88a9-4746-afd5-62fba9a21672" width="250" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/user-attachments/assets/822fa27f-3088-42ca-a91f-325da6472b47" width="250" />
+</p>
+
 Download our app from Google Play. With a single tap, GateDNS sets up an on-device local VPN profile to filter all DNS traffic.
 * No root required.
 * Fully automated secure profile synchronizing with your web preferences.
